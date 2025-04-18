@@ -1,3 +1,5 @@
+# My_first_lib
+
 **Hi!!**  
 This is my first lib, so I'm testing things.  
 This lib does two things for now (2025/4/18):
@@ -8,4 +10,4 @@ This lib does two things for now (2025/4/18):
 2. **show_all_colors**  
    It shows all colors you can use (total 256).
 
-It depends on the [rich](https://rich.readthedocs.io/en/stable/index.html) lib, and I made this lib just to increase speed.
+It depends on the [rich](https://github.com/Textualize/rich) lib, and I made this lib just to increase speed.
